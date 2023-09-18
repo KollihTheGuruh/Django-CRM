@@ -66,10 +66,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'elderco',
-        'USER': 'root',
-        'PASSWORD': 'password123',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        #'USER': 'root',
+        'PASSWORD': 'Kollih@5468',
+        #'HOST': 'localhost',
+        #'PORT': '3306',
     }
 }
 
